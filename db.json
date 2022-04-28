@@ -1,0 +1,19 @@
+{
+  "userData": [
+    {
+      "id": 1,
+      "username": "",
+      "password": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
